@@ -20,3 +20,10 @@
 ## Angular
 
 - Angular is DEAD!
+
+## FrontEnd (Advanced)
+
+- [如何度源码](https://www.bilibili.com/video/BV1nP411w7tx/)
+- [手写 Redux](https://www.bilibili.com/video/BV1dm4y1R7RK/)
+- [TS 全解](https://www.bilibili.com/video/BV1ig411k7pf/)
+- [类型体操训练](https://github.com/type-challenges/type-challenges)
